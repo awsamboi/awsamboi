@@ -1,37 +1,63 @@
+# Hi, I'm Daniel! 👋
 
+### 🌍 About Me
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="350"/>
-</div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+I'm a passionate **DevOps Engineer** and **System Administrator** from Bulgaria. With a strong focus on automation, system scalability, and performance.
 
 ---
 
-## Quick introduction
+### 💻 Technologies & Tools
 
-### Hello
-- My name is Daniel
-- Located in Bulgaria
+#### Programming Languages:
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-### I am
-- Self-taught developer
-- Freelancer
-- Crypto Enthusiast (trynna be)
-- "Entreprenuer" and "Businessman" (trynna be)
+#### Databases:
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### Languages & Technologies
-[![0x0](https://skillicons.dev/icons?i=azure,gcp,nodejs,kubernetes,postgres,mysql,mongodb,redis,express,html,js,css,discord,instagram,)](https://lunarnodes.xyz)
+#### Platforms & Tools:
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-### Find me in
-- Discord: ghostsnip3rr
-- Email: d4niell@pm.me
-- Web: https://lunarnodes.xyz
+#### Other Skills:
+![Git](https://skillicons.dev/icons?i=git)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
 
-![](https://komarev.com/ghpvc/?username=awsamboi&color=lightgrey)
-------------
+---
 
-i have stolen that off gogi1337 but he will fogive me <3
+### 📬 Let's Connect!
+
+- **Email:** [d4niell@pm.me](mailto:d4niell@pm.me)
+- **Website:** [lunarnodes.xyz](https://lunarnodes.xyz)
+- **Discord:** `ghostsnip3rr`
+
+Feel free to reach out if you're interested in collaborating, have a project idea, or just want to chat about technology and systems engineering.
+
+---
+
+### 📈 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awsamboi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awsamboi&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact
+
+When I'm not debugging or optimizing systems, you might find me exploring the latest tech trends or gaming with friends online. 🎮
+
