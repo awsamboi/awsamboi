@@ -44,7 +44,7 @@ I'm a passionate **DevOps Engineer** and **System Administrator** from Bulgaria.
 ### 📬 Let's Connect!
 
 - **Email:** [d4niell@pm.me](mailto:d4niell@pm.me)
-- **Portfolio:** [sysfail.site]([https://lunarnodes.xyz](https://sysfail.site/))
+- **Portfolio:** [sysfail.site](https://sysfail.site/)
 - **Hosting:** [lunarnodes.xyz](https://lunarnodes.xyz)
 - **Discord:** `ghostsnip3rr`
 
